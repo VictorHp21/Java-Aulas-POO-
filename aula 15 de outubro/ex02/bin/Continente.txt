@@ -1,0 +1,411 @@
+america do sul
+
+Paises cadastraods neste continente: 
+
+brasil
+
+Dimensão do país: 
+
+45.0
+
+População do país: 
+
+32
+
+argentina
+
+Dimensão do país: 
+
+89.0
+
+População do país: 
+
+12
+
+Dimensão total do Continente: 
+
+134.0
+
+População total do Continente: 
+
+44
+
+Pais com a maior população deste continente: 
+
+brasil
+
+Pais com a menor população deste continente: 
+
+argentina
+
+Pais com a maior dimensão deste continente: 
+
+argentina
+
+Pais com a menor dimensão deste continente: 
+
+
+
+africa
+
+Paises cadastraods neste continente: 
+
+egito
+
+Dimensão do país: 
+
+789.0
+
+População do país: 
+
+322
+
+angola
+
+Dimensão do país: 
+
+89.0
+
+População do país: 
+
+12
+
+Dimensão total do Continente: 
+
+878.0
+
+População total do Continente: 
+
+334
+
+Pais com a maior população deste continente: 
+
+egito
+
+Pais com a menor população deste continente: 
+
+angola
+
+Pais com a maior dimensão deste continente: 
+
+
+
+Pais com a menor dimensão deste continente: 
+
+angola
+
+[america do sul
+, Paises cadastraods neste continente: 
+, brasil
+, Dimensão do país: 
+, 45.0
+, População do país: 
+, 32
+, argentina
+, Dimensão do país: 
+, 89.0
+, População do país: 
+, 12
+, Dimensão total do Continente: 
+, 134.0
+, População total do Continente: 
+, 44
+, Pais com a maior população deste continente: 
+, brasil
+, Pais com a menor população deste continente: 
+, argentina
+, Pais com a maior dimensão deste continente: 
+, argentina
+, Pais com a menor dimensão deste continente: 
+, 
+, africa
+, Paises cadastraods neste continente: 
+, egito
+, Dimensão do país: 
+, 789.0
+, População do país: 
+, 322
+, angola
+, Dimensão do país: 
+, 89.0
+, População do país: 
+, 12
+, Dimensão total do Continente: 
+, 878.0
+, População total do Continente: 
+, 334
+, Pais com a maior população deste continente: 
+, egito
+, Pais com a menor população deste continente: 
+, angola
+, Pais com a maior dimensão deste continente: 
+, 
+, Pais com a menor dimensão deste continente: 
+, angola
+]
+africa
+
+Paises cadastraods neste continente: 
+
+egito
+
+Dimensão do país: 
+
+32.0
+
+População do país: 
+
+12
+
+angola
+
+Dimensão do país: 
+
+56.0
+
+População do país: 
+
+35
+
+Dimensão total do Continente: 
+
+88.0
+
+População total do Continente: 
+
+47
+
+Pais com a maior população deste continente: 
+
+angola
+
+Pais com a menor população deste continente: 
+
+
+
+Pais com a maior dimensão deste continente: 
+
+angola
+
+Pais com a menor dimensão deste continente: 
+
+egito
+
+africa
+
+Paises cadastraods neste continente: 
+
+egito
+
+Dimensão do país: 
+
+32.0
+
+População do país: 
+
+12
+
+angola
+
+Dimensão do país: 
+
+56.0
+
+População do país: 
+
+34
+
+Dimensão total do Continente: 
+
+88.0
+
+População total do Continente: 
+
+46
+
+Pais com a maior população deste continente: 
+
+angola
+
+Pais com a menor população deste continente: 
+
+egito
+
+Pais com a maior dimensão deste continente: 
+
+angola
+
+Pais com a menor dimensão deste continente: 
+
+egito
+
+[africa
+, Paises cadastraods neste continente: 
+, egito
+, Dimensão do país: 
+, 32.0
+, População do país: 
+, 12
+, angola
+, Dimensão do país: 
+, 56.0
+, População do país: 
+, 34
+, Dimensão total do Continente: 
+, 88.0
+, População total do Continente: 
+, 46
+, Pais com a maior população deste continente: 
+, angola
+, Pais com a menor população deste continente: 
+, egito
+, Pais com a maior dimensão deste continente: 
+, angola
+, Pais com a menor dimensão deste continente: 
+, egito
+]
+AFRICA
+
+PAISES CADASTRAODS NESTE CONTINENTE: 
+
+EGITO
+
+DIMENSÃO DO PAÍS: 
+
+789.0
+
+POPULAÇÃO DO PAÍS: 
+
+322
+
+ANGOLA
+
+DIMENSÃO DO PAÍS: 
+
+754.0
+
+POPULAÇÃO DO PAÍS: 
+
+325
+
+DIMENSÃO TOTAL DO CONTINENTE: 
+
+1543.0
+
+POPULAÇÃO TOTAL DO CONTINENTE: 
+
+647
+
+PAIS COM A MAIOR POPULAÇÃO DESTE CONTINENTE: 
+
+ANGOLA
+
+PAIS COM A MENOR POPULAÇÃO DESTE CONTINENTE: 
+
+EGITO
+
+PAIS COM A MAIOR DIMENSÃO DESTE CONTINENTE: 
+
+EGITO
+
+PAIS COM A MENOR DIMENSÃO DESTE CONTINENTE: 
+
+ANGOLA
+
+AMERICA DO SUL
+
+PAISES CADASTRAODS NESTE CONTINENTE: 
+
+BRASIL
+
+DIMENSÃO DO PAÍS: 
+
+568.0
+
+POPULAÇÃO DO PAÍS: 
+
+896
+
+ARGENTINA
+
+DIMENSÃO DO PAÍS: 
+
+1256.0
+
+POPULAÇÃO DO PAÍS: 
+
+4532
+
+DIMENSÃO TOTAL DO CONTINENTE: 
+
+1824.0
+
+POPULAÇÃO TOTAL DO CONTINENTE: 
+
+5428
+
+PAIS COM A MAIOR POPULAÇÃO DESTE CONTINENTE: 
+
+ARGENTINA
+
+PAIS COM A MENOR POPULAÇÃO DESTE CONTINENTE: 
+
+BRASIL
+
+PAIS COM A MAIOR DIMENSÃO DESTE CONTINENTE: 
+
+ARGENTINA
+
+PAIS COM A MENOR DIMENSÃO DESTE CONTINENTE: 
+
+BRASIL
+
+[africa
+, Paises cadastraods neste continente: 
+, egito
+, Dimensão do país: 
+, 789.0
+, População do país: 
+, 322
+, angola
+, Dimensão do país: 
+, 754.0
+, População do país: 
+, 325
+, Dimensão total do Continente: 
+, 1543.0
+, População total do Continente: 
+, 647
+, Pais com a maior população deste continente: 
+, angola
+, Pais com a menor população deste continente: 
+, egito
+, Pais com a maior dimensão deste continente: 
+, egito
+, Pais com a menor dimensão deste continente: 
+, angola
+, america do sul
+, Paises cadastraods neste continente: 
+, brasil
+, Dimensão do país: 
+, 568.0
+, População do país: 
+, 896
+, argentina
+, Dimensão do país: 
+, 1256.0
+, População do país: 
+, 4532
+, Dimensão total do Continente: 
+, 1824.0
+, População total do Continente: 
+, 5428
+, Pais com a maior população deste continente: 
+, argentina
+, Pais com a menor população deste continente: 
+, brasil
+, Pais com a maior dimensão deste continente: 
+, argentina
+, Pais com a menor dimensão deste continente: 
+, brasil
+]
